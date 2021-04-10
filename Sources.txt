@@ -1,0 +1,6 @@
+1- https://www.udemy.com/share/101t6IAEMYdFZVTXoF/
+2- https://pandas.pydata.org/pandas-docs/stable/pandas.pdf
+3- https://riptutorial.com/Download/pandas.pdf
+4- https://www.arc.vt.edu/wp-content/uploads/2016/08/pandas.pdf
+5- https://www.datacamp.com/community/blog/python-pandas-cheat-sheet?utm_source=adwords_ppc&utm_campaignid=12492439802&utm_adgroupid=122563403481&utm_device=c&utm_keyword=panda%20package%20python&utm_matchtype=b&utm_network=s&utm_adpostion=&utm_creative=504158804608&utm_targetid=kwd-614516587896&utm_loc_interest_ms=&utm_loc_physical_ms=9048955&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rGwgBmk0KArEdOhpEriKKmi2aOvOJLOzOJwbMJKw3S8extQrbYWFmhoCUh0QAvD_BwE
+6- https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
